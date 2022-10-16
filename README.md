@@ -1,9 +1,5 @@
 # ContentPlaceHolderRecyclerview
 
-
-Implemented Content Placeholder Animation using Shimmer in Android with RecyclerView. 
-
-
 ***You can Install and test latest version of app from below 👇***
 
 [![ContentPlaceHolderRecyclerview](https://img.shields.io/badge/ContentPlaceHolderRecyclerview-APK-red.svg?style=for-the-badge&logo=android)](https://github.com/AbhishekTiwariAndroid/ContentPlaceHolderRecyclerview/blob/master/app-debug.apk)
